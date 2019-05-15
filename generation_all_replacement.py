@@ -26,5 +26,5 @@ def gen_bumbers(N:int, M:int, prefix=None):
         prefix.pop()
 
 if __name__ == "__main__":
-    gen_bumbers(3, 100)
+    gen_bumbers(3, 10)
     #gen_bin(3)
